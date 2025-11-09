@@ -1,5 +1,7 @@
 ﻿<Solution>
   <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="ToolbarExtender.Editor.csproj" />
   <Project Path="HueFolders.Editor.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="TimeScaleToolbar.Editor.csproj" />
 </Solution>
